@@ -1,0 +1,25 @@
+{
+  "name": "ts-book",
+  "version": "1.0.0",
+  "description": "TypeScript book code",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/majorcranky/ts-book.git"
+  },
+  "author": "majorcranky",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/majorcranky/ts-book/issues"
+  },
+  "homepage": "https://github.com/majorcranky/ts-book#readme",
+  "devDependencies": {
+    "gulp-typescript": "^2.12.2"
+  },
+  "dependencies": {
+    "jquery": "^2.2.2"
+  }
+}
