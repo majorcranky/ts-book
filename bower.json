@@ -1,0 +1,18 @@
+{
+  "name": "ts-book",
+  "description": "TypeScript book code",
+  "main": "gulpfile.js",
+  "authors": [
+    "majorcranky"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/majorcranky/ts-book",
+  "moduleType": [],
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
